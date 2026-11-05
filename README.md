@@ -1,5 +1,13 @@
 # OmarchyTV
 
+> **Kopi for AI-Akseleratoren.** Dette er Petter Erik Nyvolls kopi av [piermark/omarchytv](https://github.com/piermark/omarchytv) (MIT-lisens). All kode er laget av Marco Porro og de som er nevnt i NOTICE. Dette er et uoffisielt prosjekt.
+>
+> **Hva det er:** en gratis hjemskjerm for Android TV og Google TV med egen MCP-server, så du kan si til Claude: «Åpne YouTube på TV-en.» LG webOS og Samsung Tizen er eksperimentelt.
+>
+> **Viktig:** dette er beta, og hjemskjermen på TV-en kan bli byttet ut. Ta backup først, og bruk oppskriften i `docs/AI-ASSISTED-SETUP.md`. Ikke endre DNS, og be agenten spørre før hver endring på TV-en.
+>
+> **Filene** lastes ned fra [originalens Releases](https://github.com/piermark/omarchytv/releases). Sjekk SHA-256 mot tabellen under før du installerer.
+
 **An Omarchy-style home screen for Android TV, featuring a native Omarchy TUI Grok Bot assistant, 32 MIT themes with TV wallpapers, a desktop link to your Omarchy PC / Mac, a native MCP server, and an Android smartphone wireless installer.**
 
 Created by **[Marco Porro](https://www.marcoporro.it)** ([x.com/MarcoPorro](https://x.com/MarcoPorro) · [www.marcoporro.it](https://www.marcoporro.it))
